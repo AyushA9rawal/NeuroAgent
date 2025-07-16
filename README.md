@@ -40,7 +40,7 @@ Built to help people align **wellness and productivity** using automation and AI
 
 [👉 Watch the Loom demo here](YOUR_LOOM_LINK_HERE)
 
-![Telegram Suggestion Screenshot](screenshots/Telegram Screenshot.png)
+![Telegram Suggestion Screenshot](Screenshots/TelegramScreenshot.png)
 
 ---
 
